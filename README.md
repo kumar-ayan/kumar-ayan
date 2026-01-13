@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -32,14 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kumar-ayan.kumar-ayan&"  />
-</div>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/kumar-ayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AyanKumar766" height="30" width="40" /></a>
@@ -47,14 +39,3 @@
 <a href="https://instagram.com/exoticayan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exoticayan_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Ayan-Kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ayan-Kumar" height="30" width="40" /></a>
 </p>
-
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/kumar-ayan/kumar-ayan/output/snake.svg" alt="Snake animation" />
-
-###
